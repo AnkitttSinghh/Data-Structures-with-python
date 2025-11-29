@@ -36,6 +36,14 @@
      mydict['name'] = ankit
    ii) how to edit:
      mydict["name"] = "mayank
+   iii) how to add new key
+     mydict["new key"] = 1223
+   iv) how to delete/ clear
+        del mydict
+        mydict.clear() #it empties the dictionary
+   v) operations
+        no concatenation/ no multiplicaion/ looping/ membership( for keys)
+   
    
        
    
